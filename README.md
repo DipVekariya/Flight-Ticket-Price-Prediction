@@ -98,5 +98,3 @@ This project demonstrates the practical application of Machine Learning and Data
 ## 👨‍💻 Author
 DIP PRAKASHBHAI VEKARIYA,
 HET JITENDRABHAI PAGHADAR
-
-Machine Learning Project – Flight Ticket Price Prediction
