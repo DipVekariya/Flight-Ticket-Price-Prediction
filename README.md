@@ -96,7 +96,7 @@ Flight_Price_Prediction/
 This project demonstrates the practical application of Machine Learning and Data Analysis techniques to solve a real-world regression problem: predicting flight ticket prices.
 
 ## 👨‍💻 Author
-DIP PRAKASHBHAI VEKARIYA
+DIP PRAKASHBHAI VEKARIYA,
 HET JITENDRABHAI PAGHADAR
 
 Machine Learning Project – Flight Ticket Price Prediction
